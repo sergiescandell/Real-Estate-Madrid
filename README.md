@@ -20,9 +20,13 @@ An additional table is also available with information on the real estate agenci
 Through SQL queries, we seek to answer key questions about the real estate market, such as:
 
 ✅ Properties with specific features (bathrooms, elevator, parking space, etc.).
+
 ✅ Average price analysis by features and locations.
+
 ✅ Identification of trends in property values in 2018.
+
 ✅ Comparison of prices by parking space availability.
+
 ✅ Analysis of real estate agency performance.
 
 ## **Technologies Used**
