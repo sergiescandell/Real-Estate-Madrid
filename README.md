@@ -3,6 +3,7 @@
 This project aims to analyze a dataset published by Idealista, a real estate portal with presence in Spain, Andorra, Italy and Portugal. We will focus on the city of Madrid, exploring the information about properties for sale and applying SQL techniques to extract key insights about the real estate market.
 
 **Dataset Description**
+
 The dataset includes detailed information about the properties, such as:
 
  - Geographical location (latitude and longitude).
@@ -15,6 +16,7 @@ The dataset includes detailed information about the properties, such as:
 An additional table is also available with information on the real estate agencies managing the properties, including their name and average rating.
 
 **Project Objectives**
+
 Through SQL queries, we seek to answer key questions about the real estate market, such as:
 
 ✅ Properties with specific features (bathrooms, elevator, parking space, etc.).
